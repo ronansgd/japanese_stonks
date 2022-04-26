@@ -2,3 +2,6 @@ name: jap_stonk
 dependencies:
   - numpy
   - pandas
+  - matplotlib
+  - scipy
+  - seaborn
